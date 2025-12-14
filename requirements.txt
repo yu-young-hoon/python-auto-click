@@ -1,0 +1,9 @@
+pillow
+opencv-python
+pytesseract
+pynput
+pyautogui
+numpy
+pywin32
+pandas
+google-genai
